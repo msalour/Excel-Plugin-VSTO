@@ -1,0 +1,19 @@
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Excel Plugin.dll
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Excel Plugin.pdb
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Excel Plugin.dll.manifest
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Excel Plugin.vsto
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.csproj.AssemblyReference.cache
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel_Plugin.Form1.resources
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel_Plugin.Properties.Resources.resources
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel_Plugin.RibbonCustom.resources
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel_Plugin.UserControl1.resources
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.csproj.GenerateResource.cache
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.csproj.CoreCompileInputs.cache
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.csproj.CopyComplete
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.dll
+C:\Users\umsalour\source\repos\Excel Plugin\Excel Plugin\obj\Debug\Excel Plugin.pdb
